@@ -18,5 +18,5 @@ hello.html
 done 
 
 
-5. Clean up code AKA remove the dead code. (5pt)
+5.Clean up code AKA remove the dead code. (5pt)
 done
