@@ -1,7 +1,18 @@
 # lecture-9-js-alerts 
 
-In many cases, when you head to a website, you can navigate to a different web page within the website by changing (or adding) a path in the URL. This is done clicking on a link, or manually typing in the URL into the browser.
+1. What URL has an alert that says “This is the index page”?
 
-For example, you can head to www.example.com, or you can navigate to a different page by adding the "/about" path and going to www.example.com/about (in our case, '/about' doesn't exist on example.com's server, so it won't load).
+index.html 
 
-You can do something similar with Flask too! instead of using `@app.route('/')`, you can return a different page by assigning a different path using `@app.route('/about')` or any path you choose. Try out the paths with the boilerplate code provided!
+2. Make it say “This is my index page” instead. 
+
+done
+
+3. What URL has “Hello, world”?  (2pt)
+hello.html
+
+4.Make it say “Welcome to my world” instead (tricky!). (3pt)
+
+done 
+5. Clean up code AKA remove the dead code. (5pt)
+done
